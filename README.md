@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**qwert-top/qwert-top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">My Profile</h1>
+<p align="left">
+  
+- Undergraduate student at Department of Computer Science and Communications Engineering, Waseda University
+  
+- Reseaching at Watanabe Lab
+</p>
+<h1 align="left">Research Topic</h1>
+<p align="left">
+  
+- Sign Language Recognition
+  
+- Learned Image Compression for Machines
+</p>
