@@ -1,4 +1,4 @@
-<h2 align="left">Research Topic</h2>
+<h2 align="left">Research Topics</h2>
 <p align="left">
   
 - Sign Language Recognition  
