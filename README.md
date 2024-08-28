@@ -11,4 +11,6 @@
 - Sign Language Recognition
   
 - Learned Image Compression for Machines
+
+- Scalable Image Coding for Humans and Machines
 </p>
