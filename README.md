@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="left">Achievements</h2>
+<h2 align="left">Papers (International Conferenes)</h2>
 <h3 aligh="left">1st Author</h3>
 <p align="left">
 
@@ -23,4 +23,13 @@
 <p align="left">
 
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network (IEEE MMSP 2024)
+</p>
+
+---
+
+<h2 align="left">Papers (Domestic Conferences, Japan)</h2>
+<h3 aligh="left">1st Author</h3>
+<p align="left">
+
+- 特徴量差分を用いた視聴と画像認識のための階層画像符号化 (PCSJ 2024) (発表予定)
 </p>
