@@ -33,3 +33,8 @@
 
 - 特徴量差分を用いた視聴と画像認識のための階層画像符号化 (PCSJ 2024) (発表予定)
 </p>
+<h3 aligh="left">Others</h3>
+<p align="left">
+  
+- Cross-Frame Attention を用いた映像補間モデルの一検討 (映像情報メディア学会年次大会 2024)
+</p>
