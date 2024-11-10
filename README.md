@@ -22,6 +22,7 @@
 <h3 aligh="left">Others</h3>
 <p align="left">
 
+- Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression (IEEE ICCE 2025)
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network (IEEE MMSP 2024)
 </p>
 
