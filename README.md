@@ -40,3 +40,9 @@
 - Assessing the Effectiveness of ICM Method for Privacy Protection (PCSJ 2024)
 - Cross-Frame Attention を用いた映像補間モデルの一検討 (映像情報メディア学会年次大会 2024)
 </p>
+
+---
+
+<h2 align="left">Awards</h2>
+
+-IEEE GCCE 2024 Presentation Award (Nov. 2024)
