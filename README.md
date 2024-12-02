@@ -45,4 +45,4 @@
 
 <h2 align="left">Awards</h2>
 
--IEEE GCCE 2024 Presentation Award (Nov. 2024)
+- IEEE GCCE 2024 Presentation Award (Nov. 2024)
