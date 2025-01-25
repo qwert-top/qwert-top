@@ -52,3 +52,10 @@
 <h2 align="left">Awards</h2>
 
 - IEEE GCCE 2024 Presentation Award (Nov. 2024)
+
+---
+
+<h2 align="left">Experience</h2>
+
+- NICT commissioned research <br>
+ 採択番号05101 (日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発)
