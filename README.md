@@ -59,3 +59,14 @@
 
 - NICT commissioned research <br>
  採択番号05101 (日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発)
+
+---
+
+<h2 align="left">Education</h2>
+
+- Apr.　2025 - Mar.　2027 (planned) <br>
+  早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
+- Apr.　2024 - Mar.　2025 <br>
+  早稲田大学 基幹理工学部 情報通信学科 / Department of Communications and Computer Engineering, Waseda University
+- Sep.　2021 - Mar.　2024
+  International Christian University High School
