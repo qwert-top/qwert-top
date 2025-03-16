@@ -64,9 +64,11 @@
 
 <h2 align="left">Education</h2>
 
-- Apr.　2025 - Mar.　2027 (planned) <br>
-  早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
-- Apr.　2024 - Mar.　2025 <br>
-  早稲田大学 基幹理工学部 情報通信学科 / Department of Communications and Computer Engineering, Waseda University
-- Sep.　2021 - Mar.　2024
+- Apr.2025 - Mar.2027 (planned) <br>
+  早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 <br>
+  / Department of Computer Science and Communications Engineering, Waseda University
+- Apr.2024 - Mar.2025 <br>
+  早稲田大学 基幹理工学部 情報通信学科 <br>
+  / Department of Communications and Computer Engineering, Waseda University
+- Sep.2021 - Mar.2024 <br>
   International Christian University High School
