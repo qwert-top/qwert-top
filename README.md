@@ -41,8 +41,8 @@
 <h3 aligh="left">Others</h3>
 <p align="left">
 
-- 機械のための復号画像における顔認証精度の評価 ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html)) (to appear)
-- 事前学習済みの拡散モデルを使用したフレーム補間 ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html)) (to appear)
+- 機械のための復号画像における顔認証精度の評価 ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
+- 事前学習済みの拡散モデルを使用したフレーム補間 ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
 - ICM手法のプライバシー保護における有効性の検証 ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
 - Cross-Frame Attention を用いた映像補間モデルの一検討 ([映像情報メディア学会年次大会 2024](https://www.ite.or.jp/annual/2024/))
 </p>
@@ -51,6 +51,7 @@
 
 <h2 align="left">Awards</h2>
 
+- Waseda University, Communications and Computer Engineering Department Award (Mar. 2025)
 - IEEE GCCE 2024 Presentation Award (Nov. 2024)
 
 ---
@@ -66,7 +67,7 @@
 
 - Apr.2025 - Mar.2027 (planned) <br>
   早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 <br>
-  / Department of Computer Science and Communications Engineering, Waseda University
+  / Computer Science and Communications Engineering Major, Waseda University
 - Apr.2021 - Mar.2025 <br>
   早稲田大学 基幹理工学部 情報通信学科 <br>
   / Department of Communications and Computer Engineering, Waseda University
