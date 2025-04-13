@@ -1,8 +1,8 @@
 <h2 align="left">Research Topics</h2>
 <p align="left">
-  
-- Sign Language Recognition  
+
 - Image Coding for Humans and Machines
+- Sign Language Recognition
 </p>
 
 ---
@@ -36,15 +36,15 @@
 <h3 aligh="left">1st Author</h3>
 <p align="left">
 
-- 特徴量差分を用いた視聴と画像認識のための階層画像符号化 ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
+- 特徴量差分を用いた視聴と画像認識のための階層画像符号化 / Scalable Image Coding for Humans and Machines Using Feature Differences ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
 </p>
 <h3 aligh="left">Others</h3>
 <p align="left">
 
-- 機械のための復号画像における顔認証精度の評価 ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
-- 事前学習済みの拡散モデルを使用したフレーム補間 ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
-- ICM手法のプライバシー保護における有効性の検証 ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
-- Cross-Frame Attention を用いた映像補間モデルの一検討 ([映像情報メディア学会年次大会 2024](https://www.ite.or.jp/annual/2024/))
+- 機械のための復号画像における顔認証精度の評価 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
+- 事前学習済みの拡散モデルを使用したフレーム補間 / Video Frame Interpolation Using Pretrained Diffusion Model ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
+- ICM手法のプライバシー保護における有効性の検証 / Assesing the Effectiveness of ICM Method for Privacy Protection ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
+- Cross-Frame Attention を用いた映像補間モデルの一検討 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([映像情報メディア学会年次大会 2024](https://www.ite.or.jp/annual/2024/))
 </p>
 
 ---
