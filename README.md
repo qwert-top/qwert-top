@@ -1,7 +1,7 @@
-<div align="center">
-<b>-- [[ Website ](https://qwert-top.github.io/)] --</b><br>
+<p align="center">
+  【<a href="https://qwert-top.github.io/">Website</a>】
+</p>
 
-</div>
 
 <h2 align="left">Research Topics</h2>
 <p align="left">
