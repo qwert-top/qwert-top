@@ -1,12 +1,20 @@
-<p align="center">
-  【<a href="https://qwert-top.github.io/">My Website</a>】
+<h2 align="left">About Me</h2>
+<h4 align="left">
+  ✨<a href="https://qwert-top.github.io/">My Website</a>✨
+</h4>
+Master's student in Computer Science at Waseda University, Tokyo, Japan.
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=u1nK1wgAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/qwert-top">Linkedin</a>
 </p>
 
+---
 
 <h2 align="left">Research Topics</h2>
 <p align="left">
 
 - Image Coding for Humans and Machines
+- Image Generation
 - Sign Language Recognition
 </p>
 
@@ -22,7 +30,7 @@
 <h3 aligh="left">2nd Author</h3>
 <p align="left">
 
-- Guided Diffusion for the Extension of Machine Vision to Human Visual Perception <br>
+- Guided Diffusion for the Extension of Machine Vision to Human Visual Perception (under review) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2405.11894-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2405.11894-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
