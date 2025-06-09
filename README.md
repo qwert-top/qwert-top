@@ -24,6 +24,8 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h3 aligh="left">1st Author</h3>
 <p align="left">
 
+- Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion (under review) <br>
+ [![arXiv](https://img.shields.io/badge/arXiv-2411.06347-b31b1b.svg)](https://arxiv.org/abs/2506.05363v1)
 - Classification in Japanese Sign Language Based on Dynamic Facial Expressions ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
  [![arXiv](https://img.shields.io/badge/arXiv-2411.06347-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
 </p>
