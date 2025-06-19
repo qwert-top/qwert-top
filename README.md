@@ -32,7 +32,6 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h3 aligh="left">2nd Author</h3>
 <p align="left">
 
-- Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection (under review) <br>
 - Guided Diffusion for the Extension of Machine Vision to Human Visual Perception (under review) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2405.11894-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
@@ -42,6 +41,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h3 aligh="left">Others</h3>
 <p align="left">
 
+- Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection (under review) <br>
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression ([IEEE ICCE 2025](https://icce.org/2025/)) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2410.07669-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network ([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/)) <br>
