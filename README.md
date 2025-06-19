@@ -90,4 +90,4 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
   早稲田大学 基幹理工学部 情報通信学科 <br>
   / Department of Communications and Computer Engineering, Waseda University
 - Sep.2018 - Mar.2021 <br>
-  International Christian University High School
+国際基督教大学高等学校 / International Christian University High School
