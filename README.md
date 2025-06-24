@@ -24,6 +24,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h3 aligh="left">1st Author</h3>
 <p align="left">
 
+- Explicit Residual-Based Scalable Image Coding for Humans and Machines (under review)
 - Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion (under review) <br>
  [![arXiv](https://img.shields.io/badge/arXiv-2411.06347-b31b1b.svg)](https://arxiv.org/abs/2506.05363v1)
 - Classification in Japanese Sign Language Based on Dynamic Facial Expressions ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
@@ -54,15 +55,16 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h3 aligh="left">1st Author</h3>
 <p align="left">
 
-- 特徴量差分を用いた視聴と画像認識のための階層画像符号化 / Scalable Image Coding for Humans and Machines Using Feature Differences ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
+- 視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証 / Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines ([MIRU2025](https://cvim.ipsj.or.jp/MIRU2025/index.html)) (to appear)
+- 特徴量差分を用いた視聴と画像認識のための階層画像符号化 / Scalable Image Coding for Humans and Machines Using Feature Differences ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))
 </p>
 <h3 aligh="left">Others</h3>
 <p align="left">
 
-- 機械のための復号画像における顔認証精度の評価 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
-- 事前学習済みの拡散モデルを使用したフレーム補間 / Video Frame Interpolation Using Pretrained Diffusion Model ([情報処理学会全国大会 2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
-- ICM手法のプライバシー保護における有効性の検証 / Assessing the Effectiveness of ICM Method for Privacy Protection ([PCSJ 2024](https://www.pcsj-imps.org/archive/2024.html))
-- Cross-Frame Attention を用いた映像補間モデルの一検討 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([映像情報メディア学会年次大会 2024](https://www.ite.or.jp/annual/2024/))
+- 機械のための復号画像における顔認証精度の評価 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([情報処理学会全国大会2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
+- 事前学習済みの拡散モデルを使用したフレーム補間 / Video Frame Interpolation Using Pretrained Diffusion Model ([情報処理学会全国大会2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
+- ICM手法のプライバシー保護における有効性の検証 / Assessing the Effectiveness of ICM Method for Privacy Protection ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))
+- Cross-Frame Attention を用いた映像補間モデルの一検討 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([映像情報メディア学会年次大会2024](https://www.ite.or.jp/annual/2024/))
 </p>
 
 ---
@@ -76,7 +78,8 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
 <h2 align="left">Experience</h2>
 
-- NICT commissioned research <br>
+- Apr.2024 - present <br>
+ NICT commissioned research <br>
  採択番号05101 (日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発)
 
 ---
@@ -85,9 +88,9 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
 - Apr.2025 - Mar.2027 (planned) <br>
   早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 <br>
-  / Computer Science and Communications Engineering Major, Waseda University
+  / Major in Computer Science and Communications Engineering, Graduate School of Fundamental Science and Engineering, Waseda University
 - Apr.2021 - Mar.2025 <br>
   早稲田大学 基幹理工学部 情報通信学科 <br>
-  / Department of Communications and Computer Engineering, Waseda University
+  / Department of Communications and Computer Engineering, School of Fundamental Science and Engineering, Waseda University
 - Sep.2018 - Mar.2021 <br>
 国際基督教大学高等学校 / International Christian University High School
