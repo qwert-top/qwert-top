@@ -24,9 +24,10 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h3 aligh="left">1st Author</h3>
 <p align="left">
 
-- Explicit Residual-Based Scalable Image Coding for Humans and Machines (under review)
+- Explicit Residual-Based Scalable Image Coding for Humans and Machines (under review) <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.19297-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
 - Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion (under review) <br>
- [![arXiv](https://img.shields.io/badge/arXiv-2411.06347-b31b1b.svg)](https://arxiv.org/abs/2506.05363v1)
+ [![arXiv](https://img.shields.io/badge/arXiv-2506.05363-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
 - Classification in Japanese Sign Language Based on Dynamic Facial Expressions ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
  [![arXiv](https://img.shields.io/badge/arXiv-2411.06347-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
 </p>
@@ -34,7 +35,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <p align="left">
 
 - Guided Diffusion for the Extension of Machine Vision to Human Visual Perception (under review) <br>
-[![arXiv](https://img.shields.io/badge/arXiv-2405.11894-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.17907-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2405.11894-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
 - Integrating QR Code Characteristics Into Super-Resolution Method ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html))
