@@ -20,47 +20,59 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
 ---
 
-<h2 align="left">Papers (International Conferenes)</h2>
-<h3 aligh="left">1st Author</h3>
+<h2 align="left">Publications</h2>
+<h3 align="left">International Journals</h3>
+<h4 aligh="left">3rd Author</h4>
+<p align="left">
+
+- Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection ([IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639))<br>
+  [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/abstract/document/11029205)
+</p>
+
+<h3 align="left">International Conferences</h3>
+<h4 aligh="left">1st Author</h4>
 <p align="left">
 
 - Explicit Residual-Based Scalable Image Coding for Humans and Machines (under review) <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.19297-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
 - Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion ([IEEE GCCE 2025](https://www.ieee-gcce.org/2025/index.html)) <br>
- [![arXiv](https://img.shields.io/badge/arXiv-2506.05363-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
+ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
 - Classification in Japanese Sign Language Based on Dynamic Facial Expressions ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
- [![arXiv](https://img.shields.io/badge/arXiv-2411.06347-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
+ [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760997)
+[![Generic badge](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
+
 </p>
-<h3 aligh="left">2nd Author</h3>
+<h4 aligh="left">2nd Author</h4>
 <p align="left">
 
 - Guided Diffusion for the Extension of Machine Vision to Human Visual Perception (under review) <br>
-[![arXiv](https://img.shields.io/badge/arXiv-2503.17907-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 - Bidirectional Attention-Gated Motion Injection for Frame Interpolation ([IEEE GCCE 2025](https://www.ieee-gcce.org/2025/index.html)) <br>
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
-[![arXiv](https://img.shields.io/badge/arXiv-2405.11894-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
-- Integrating QR Code Characteristics Into Super-Resolution Method ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html))
+[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760327)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
+- Integrating QR Code Characteristics Into Super-Resolution Method ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
+ [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760486)
 </p>
-<h3 aligh="left">Others</h3>
+<h4 aligh="left">3rd Author</h4>
 <p align="left">
 
-- Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection (under review) <br>
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression ([IEEE ICCE 2025](https://icce.org/2025/)) <br>
-[![arXiv](https://img.shields.io/badge/arXiv-2410.07669-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
+ [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10929842)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network ([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/)) <br>
-[![arXiv](https://img.shields.io/badge/arXiv-2405.09152-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
+  [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10743782)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
 </p>
 
----
-
-<h2 align="left">Papers (Domestic Conferences, Japan)</h2>
-<h3 aligh="left">1st Author</h3>
+<h3 align="left">Domestic Conferences, Japan</h3>
+<h4 aligh="left">1st Author</h4>
 <p align="left">
 
 - 視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証 / Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines ([MIRU2025](https://cvim.ipsj.or.jp/MIRU2025/index.html)) (to appear)
 - 特徴量差分を用いた視聴と画像認識のための階層画像符号化 / Scalable Image Coding for Humans and Machines Using Feature Differences ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))
 </p>
-<h3 aligh="left">Others</h3>
+<h4 aligh="left">3rd Author</h4>
 <p align="left">
 
 - 機械のための復号画像における顔認証精度の評価 / Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision ([情報処理学会全国大会2025](https://www.ipsj.or.jp/event/taikai/87/index.html))
