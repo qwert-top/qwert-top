@@ -33,7 +33,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h4 aligh="left">1st Author</h4>
 <p align="left">
 
-- Explicit Residual-Based Scalable Image Coding for Humans and Machines (under review) <br>
+- Explicit Residual-Based Scalable Image Coding for Humans and Machines ([IEEE MMSP 2025](https://attend.ieee.org/mmsp-2025/)) <br>
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
 - Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion ([IEEE GCCE 2025](https://www.ieee-gcce.org/2025/index.html)) <br>
  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
@@ -45,7 +45,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h4 aligh="left">2nd Author</h4>
 <p align="left">
 
-- Guided Diffusion for the Extension of Machine Vision to Human Visual Perception (under review) <br>
+- Guided Diffusion for the Extension of Machine Vision to Human Visual Perception ([IEEE MMSP 2025](https://attend.ieee.org/mmsp-2025/)) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 - Bidirectional Attention-Gated Motion Injection for Frame Interpolation ([IEEE GCCE 2025](https://www.ieee-gcce.org/2025/index.html)) <br>
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html)) <br>
