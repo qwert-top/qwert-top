@@ -69,7 +69,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h4 aligh="left">1st Author</h4>
 <p align="left">
 
-- 視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証 / Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines ([MIRU2025](https://cvim.ipsj.or.jp/MIRU2025/index.html)) (to appear)
+- 視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証 / Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines ([MIRU2025](https://cvim.ipsj.or.jp/MIRU2025/index.html))
 - 特徴量差分を用いた視聴と画像認識のための階層画像符号化 / Scalable Image Coding for Humans and Machines Using Feature Differences ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))
 </p>
 <h4 aligh="left">3rd Author</h4>
