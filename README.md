@@ -57,6 +57,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h4 aligh="left">3rd Author</h4>
 <p align="left">
 
+- VFI-LoRA: Leveraging Video Diffusion Models for Video Interpolation Through LoRA Finetuning ([IEEE IoTaIS 2025](https://iotais.org/)) <br>
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression ([IEEE ICCE 2025](https://icce.org/2025/)) <br>
  [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10929842)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
