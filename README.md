@@ -86,6 +86,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
 <h2 align="left">Awards</h2>
 
+- IEEE GCCE 2025 Oral Presentation Award (Sep. 2025)
 - Waseda University, Communications and Computer Engineering Department Award (Mar. 2025)
 - IEEE GCCE 2024 Presentation Award (Nov. 2024)
 
