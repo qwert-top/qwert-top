@@ -1,6 +1,6 @@
 <h2 align="left">About Me</h2>
 <h4 align="left">
-  ✨<a href="https://qwert-top.github.io/">My Website</a>✨
+  ✨<a href="https://www.notion.so/Yui-Tatsumi-s-Website-2a5b691b270d80f09417d1156c39e199">My Website</a>✨
 </h4>
 Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
