@@ -33,6 +33,8 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h4 aligh="left">1st Author</h4>
 <p align="left">
 
+- Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines ([IEEE ICCE 2026](https://icce.org/2026/)) <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.05836)
 - Explicit Residual-Based Scalable Image Coding for Humans and Machines ([IEEE MMSP 2025](https://attend.ieee.org/mmsp-2025/)) <br>
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
 - Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion ([IEEE GCCE 2025](https://www.ieee-gcce.org/2025/index.html)) <br>
@@ -45,6 +47,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 <h4 aligh="left">2nd Author</h4>
 <p align="left">
 
+- Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding ([IEVC 2026](https://www.iieej.org/en/ievc/ievc2026/)) <br>
 - Guided Diffusion for the Extension of Machine Vision to Human Visual Perception ([IEEE MMSP 2025](https://attend.ieee.org/mmsp-2025/)) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 - Bidirectional Attention-Gated Motion Injection for Frame Interpolation ([IEEE GCCE 2025](https://www.ieee-gcce.org/2025/index.html)) <br>
