@@ -104,7 +104,7 @@ Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
 <h2 align="left">Experience</h2>
 
-- Apr.2024 - present <br>
+- Apr.2024 - Mar.2026 <br>
  NICT commissioned research <br>
  採択番号05101 (日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発)
 
