@@ -1,6 +1,6 @@
 <h2 align="left">About Me</h2>
 <h4 align="left">
-  ✨<a href="https://fine-witch-a78.notion.site/Yui-Tatsumi-s-Website-2a5b691b270d80f09417d1156c39e199?source=copy_link">My Website</a>✨
+  ✨<a href="https://qwert-top.github.io/">My Website</a>✨
 </h4>
 Master's student in Computer Science at Waseda University, Tokyo, Japan.
 
